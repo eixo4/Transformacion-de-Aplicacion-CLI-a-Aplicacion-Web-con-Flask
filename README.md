@@ -105,6 +105,3 @@ turbo-librarian-web/
 -----
 
 Hecho con ❤️ y Python.
-
-```
-```
