@@ -2,6 +2,9 @@
 
 **Turbo-Librarian Web** es una aplicación moderna y ultrarrápida para gestionar tu biblioteca personal. Transforma la gestión de libros en una experiencia ágil gracias a su interfaz web limpia y su motor de base de datos en memoria.
 
+<img width="1679" height="1019" alt="image" src="https://github.com/user-attachments/assets/a547b122-f9ca-4dfc-8767-675aff568f5b" />
+
+
 ## 🚀 Características Principales
 
 * **Velocidad Extrema:** Utiliza **KeyDB** (compatible con Redis) para almacenamiento en memoria de alto rendimiento.
