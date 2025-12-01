@@ -102,8 +102,6 @@ turbo-librarian-web/
   * **Error 10061 (ConnectionRefused):**
       * Significa que Python no encuentra el servidor de base de datos.
       * *Solución:* Asegúrate de abrir Docker o ejecutar `redis-server.exe` antes de iniciar la app.
-  * **Botón "+ Nuevo Libro" invisible:**
-      * Si el botón es blanco sobre fondo azul, asegúrate de haber actualizado `base.html` eliminando la clase `nav-link` del botón.
 
 -----
 
